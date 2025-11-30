@@ -11,10 +11,10 @@
 <!-- About Section -->
  ## About me
  
-<p>
+<!-- <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
  📧 Reach me anytime: aphisitdanc.work@gmail.com<br/><br/>
-</p>
+</p> -->
 
 ## Use To Code
 
