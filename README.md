@@ -5,8 +5,11 @@
 <h3 align="left">Contact me:</h3>
 
 <p align="left">
-<a href="https://instagram.com/_aphsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aphsx" height="30" width="40" /></a>
-</p> 
+  <a href="https://instagram.com/_aphsx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_aphsx"/>
+  </a>
+</p>
+
 
 <!-- About Section -->
  ## About me
