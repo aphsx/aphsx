@@ -14,10 +14,14 @@
 <!-- About Section -->
  ## About me
  
- <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
- 📧 Reach me anytime: aphisitdanc.work@gmail.com<br/><br/>
-</p> 
+<p>
+  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+  <a href="mailto:aphisitdanc.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aphisitdanc.work@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ## Use To Code
 
