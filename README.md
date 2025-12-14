@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aphisit Danchaodang</h1> 
 <h3 align="center">FullStack Web developer </h3>
 
-<h3 align="left">Contact me:</h3>
+ ## Contact me
 
 <p align="left">
   <a href="https://instagram.com/_aphsx" target="_blank">
