@@ -1,7 +1,7 @@
 <div align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Aphisit+Danchaodang;Full+Stack+Developer" alt="Typing SVG" /> </div>
 <h1 align="center">Hi 👋, I'm Aphisit Danchaodang</h1> 
 
- ## Contact Me.
+ ## Contact Me
 
 <p align="left">
   <a href="https://instagram.com/_aphsx" target="_blank">
@@ -14,7 +14,7 @@
 
 
 <!-- About Section -->
- ## About me.
+ ## About me
  
 <p>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -25,7 +25,7 @@
 </p>
 
 
-## Use To Code.
+## Use To Code
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
