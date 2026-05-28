@@ -54,10 +54,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Trading**
-![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-1E4D8C?style=for-the-badge&logo=metatrader&logoColor=white)
-![MQL5](https://img.shields.io/badge/MQL5-2962FF?style=for-the-badge&logo=metatrader&logoColor=white)
-
 **AI & DevOps**
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
